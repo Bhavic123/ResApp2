@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="ResApp2_Execution.ResApp_executionDemo">
+        <methods>
+          <include name="ResApp2_Test"/>
+          <include name="CloseBrowser"/>
+          <include name="LogoutApplication"/>
+          <include name="ConnectBrowser"/>
+          <include name="LoginToApp"/>
+        </methods>
+      </class> <!-- ResApp2_Execution.ResApp_executionDemo -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,8 @@
+Object_Repository\RLM_MenuPage.class
+Generic_Repository\Notpad_data.class
+Generic_Repository\WebDriverUtiles.class
+Object_Repository\LoginApp.class
+Generic_Repository\Excel_data.class
+Generic_Repository\ResApp.class
+Generic_Repository\Base_class.class
+Object_Repository\ResApp_Landingpage.class
